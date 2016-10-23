@@ -1,4 +1,4 @@
-Resolvedor do jogo Same em Racket 
+#Resolvedor do jogo Same em Racket 
 
 Introdução
 
@@ -57,8 +57,3 @@ remova o grupo
 se não existir um grupo que possa ser removido, retroceda na jogada anterior e escolha outro grupo
 se acabaram as opções de grupos na primeira jogada, então o jogo não tem solução
 utilize recursivamente o mesmo processo para resolver o jogo obtido no passo 2
-
-Para executar os testes funcionais, entre no diretório resame-racket e execute um dos comandos
-
-make testar-alguns  # testar os resolvedores com alguns casos de teste
-make testar-todos   # testar os resolvedores com todos os casos de teste
