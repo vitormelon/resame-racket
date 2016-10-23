@@ -1,4 +1,4 @@
-#Trabalho / Resolvedor do jogo Same em Racket 
+Resolvedor do jogo Same em Racket 
 
 Introdução
 
